@@ -15,4 +15,4 @@ Features ⚡:
 - Fully Responsive / Mobile First Design 
 - Styled with Tailwindcss 
 
-Vist Site 🌎 : bank-ui-pi.vercel.app
+Vist Site 🌎 : https://bank-ui-pi.vercel.app
