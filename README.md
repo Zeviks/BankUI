@@ -11,3 +11,8 @@
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
+Features ⚡: 
+- Fully Responsive / Mobile First Design 
+- Styled with Tailwindcss 
+
+Vist Site 🌎 : bank-ui-pi.vercel.app
